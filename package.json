@@ -1,0 +1,23 @@
+{
+  "name": "zettelkasten",
+  "main": "./lib/zettelkasten",
+  "version": "0.1.0",
+  "description": "Tools to use Inkdrop for Zettelkasten",
+  "keywords": [
+    "notes",
+    "link",
+    "search",
+    "zettelkasten"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:picklecillo/inkdrop-plugin-zettelkasten.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.5.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
