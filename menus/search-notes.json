@@ -2,11 +2,11 @@
   "context-menu": {
     ".CodeMirror": [
       {
-        "label": "Zettelkasten",
+        "label": "Search Notes",
         "submenu": [
           {
             "label": "Search notes",
-            "command": "zettelkasten:search"
+            "command": "search-notes:search"
           }
         ]
       }

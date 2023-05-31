@@ -1,6 +1,6 @@
-# Inkdrop plugin: Zettelkasten
+# Inkdrop plugin: Search Notes
 
-Tools to use Inkdrop for Zettelkasten. Maybe.
+Search notes from within the editor and add link to selected result.
 
 ## Commands
 
@@ -26,4 +26,3 @@ Tools to use Inkdrop for Zettelkasten. Maybe.
 * [ ] Side pane
     * [ ] Links list
     * [ ] Backlinks list
-
