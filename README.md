@@ -21,8 +21,8 @@ Search notes from within the editor and add link to selected result.
     * [x] List notes on result section
     * [x] Select a note -> adds link on current note
     * [ ] Select multiple results to add in current doc
-* [ ] Backlinks
+* [ ] ~~Backlinks~~ Part of the core app as of `v5.8.0`
     * [ ] When adding a link to a note, add a backlink on Backlinks section
 * [ ] Side pane
     * [ ] Links list
-    * [ ] Backlinks list
+    * [ ] ~~Backlinks list~~ Listed above note as of `v5.8.0`
