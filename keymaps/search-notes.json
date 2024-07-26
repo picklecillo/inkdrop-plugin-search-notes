@@ -1,5 +1,5 @@
 {
-  "body": {
+  ".CodeMirror textarea": {
     "cmd-shift-s": "search-notes:search"
   }
 }
