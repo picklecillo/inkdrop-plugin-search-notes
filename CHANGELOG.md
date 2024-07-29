@@ -8,3 +8,6 @@
 
 ## 0.5.1 - Updated inkdrop version
 * Forgot to update inkdrop engine version
+
+## 0.5.2 - Handle no editingNote id
+* Handling no `editingNote._id`
