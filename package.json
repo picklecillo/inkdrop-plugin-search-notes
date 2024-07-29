@@ -9,10 +9,7 @@
     "search",
     "zettelkasten"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:picklecillo/inkdrop-plugin-search-notes.git"
-  },
+  "repository": "https://github.com/picklecillo/inkdrop-plugin-search-notes",
   "license": "MIT",
   "engines": {
     "inkdrop": "^5.5.3"
