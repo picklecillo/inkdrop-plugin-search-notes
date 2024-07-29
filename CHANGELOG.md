@@ -5,3 +5,6 @@
 * Updated embeded link format
 * Minor improvements to search dialog
 * Made key map only available on editor
+
+## 0.5.1 - Updated inkdrop version
+* Forgot to update inkdrop engine version
