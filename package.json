@@ -1,7 +1,7 @@
 {
   "name": "search-notes",
   "main": "./lib/search-notes",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "Search notes from editor and add link to selected result",
   "keywords": [
     "notes",
