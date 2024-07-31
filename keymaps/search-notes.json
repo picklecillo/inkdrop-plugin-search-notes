@@ -1,5 +1,8 @@
 {
   ".CodeMirror textarea": {
     "cmd-shift-s": "search-notes:search"
+  },
+  "body": {
+    "cmd-shift-s": "search-notes:navigate"
   }
 }
