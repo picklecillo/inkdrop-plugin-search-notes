@@ -5,8 +5,12 @@
         "label": "Search Notes",
         "submenu": [
           {
-            "label": "Search notes",
+            "label": "Search and insert",
             "command": "search-notes:search"
+          },
+          {
+            "label": "Search and navigate",
+            "command": "search-notes:navigate"
           }
         ]
       }

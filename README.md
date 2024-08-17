@@ -5,9 +5,14 @@ Search notes from within the editor and add link to selected result.
 ## Commands
 
 ### Search notes
+#### Add link to selected result (only on editor)
 * Search notes from current. Adds a link to selected result
 * Also works with selected text
 * Mapped to `cmd-shift-s`
+
+#### Navigate to selected result
+* Search notes and navigate to selected result.
+* Mapped to `alt-cmd-space`
 
 ### Search notes from editor
 
