@@ -11,3 +11,7 @@
 
 ## 0.5.2 - Handle no editingNote id
 * Handling no `editingNote._id`
+
+## 0.6.0 - Few things
+* Improved navigation of results with `tab` key
+* New cmd to search and navigate to another note
