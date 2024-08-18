@@ -15,3 +15,6 @@
 ## 0.6.0 - Few things
 * Improved navigation of results with `tab` key
 * New cmd to search and navigate to another note
+
+## 0.6.1 - Updated package description
+* That's it

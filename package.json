@@ -2,12 +2,13 @@
   "name": "search-notes",
   "main": "./lib/search-notes",
   "version": "0.6.0",
-  "description": "Search notes from editor and add link to selected result",
+  "description": "Search notes to navigate or embed a link to selected result",
   "keywords": [
     "notes",
     "link",
     "search",
-    "zettelkasten"
+    "zettelkasten",
+    "navigation"
   ],
   "repository": "https://github.com/picklecillo/inkdrop-plugin-search-notes",
   "license": "MIT",
