@@ -14,6 +14,12 @@ Search notes from within the editor and add link to selected result.
 * Search notes and navigate to selected result.
 * Mapped to `alt-cmd-space`
 
+**Note**: I also use these two key bindings to speed up navigation:
+* `"alt-cmd-left": "core:navigate-back"`
+* `"alt-cmd-right": "core:navigate-forward"`
+but [you can set those on your own keymap file](https://docs.inkdrop.app/reference/key-customizations)
+
+
 ### Search notes from editor
 
 **Note**: Inkdrop's search engine tokenizes text, so only full words are supported. See [Inkdrop docs](https://docs.inkdrop.app/manual/searching-notes#caveats-limitations-of-inkdrops-search-engine)
