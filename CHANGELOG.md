@@ -18,3 +18,6 @@
 
 ## 0.6.1 - Updated package description
 * That's it
+
+## 0.6.2 - Minor fix
+* Handling no selected text
