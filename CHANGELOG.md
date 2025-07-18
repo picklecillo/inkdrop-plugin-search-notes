@@ -21,3 +21,6 @@
 
 ## 0.6.2 - Minor fix
 * Handling no selected text
+
+## 0.6.3 - Fix menu command
+* Fixed search and insert menu command 

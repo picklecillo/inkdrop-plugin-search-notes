@@ -6,7 +6,7 @@
         "submenu": [
           {
             "label": "Search and insert",
-            "command": "search-notes:search"
+            "command": "search-notes:insert-link"
           },
           {
             "label": "Search and navigate",
